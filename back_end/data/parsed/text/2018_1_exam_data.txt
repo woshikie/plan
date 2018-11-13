@@ -90,6 +90,16 @@ Array
             [duration] => 2
         )
 
+    [CV2012] => Array
+        (
+            [date] => 23 November 2018
+            [day] => Friday
+            [time] => 9.00 am
+            [code] => CV2012
+            [name] => STRUCTURAL ANALYSIS II
+            [duration] => 2.5
+        )
+
     [CV4101] => Array
         (
             [date] => 23 November 2018
@@ -218,6 +228,16 @@ Array
             [code] => MS0002
             [name] => ENGINEERS & SOCIETY
             [duration] => 2
+        )
+
+    [MT1004] => Array
+        (
+            [date] => 23 November 2018
+            [day] => Friday
+            [time] => 9.00 am
+            [code] => MT1004
+            [name] => INTRODUCTION TO METEOROLOGY & OCEANOGRAPHY
+            [duration] => 2.5
         )
 
     [MT4002] => Array
@@ -780,16 +800,6 @@ Array
             [duration] => 2.5
         )
 
-    [CE1003] => Array
-        (
-            [date] => 26 November 2018
-            [day] => Monday
-            [time] => 1.00 pm
-            [code] => CE1003
-            [name] => INTRODUCTION TO COMPUTATIONAL THINKING
-            [duration] => 2
-        )
-
     [CH9203] => Array
         (
             [date] => 26 November 2018
@@ -828,16 +838,6 @@ Array
             [code] => CV2011
             [name] => STRUCTURAL ANALYSIS I
             [duration] => 2.5
-        )
-
-    [CZ1003] => Array
-        (
-            [date] => 26 November 2018
-            [day] => Monday
-            [time] => 1.00 pm
-            [code] => CZ1003
-            [name] => INTRODUCTION TO COMPUTATIONAL THINKING
-            [duration] => 2
         )
 
     [EE3001] => Array
@@ -1010,16 +1010,6 @@ Array
             [duration] => 2.5
         )
 
-    [PH4507] => Array
-        (
-            [date] => 26 November 2018
-            [day] => Monday
-            [time] => 1.00 pm
-            [code] => PH4507
-            [name] => TOPICS IN PHYSICS
-            [duration] => 2.5
-        )
-
     [SS1101] => Array
         (
             [date] => 26 November 2018
@@ -1067,16 +1057,6 @@ Array
             [time] => 5.00 pm
             [code] => CH2103
             [name] => FLUID SYSTEMS
-            [duration] => 2.5
-        )
-
-    [CH2113] => Array
-        (
-            [date] => 26 November 2018
-            [day] => Monday
-            [time] => 5.00 pm
-            [code] => CH2113
-            [name] => FLUIDS SYSTEMS
             [duration] => 2.5
         )
 
@@ -1420,6 +1400,16 @@ Array
             [duration] => 2.5
         )
 
+    [BG0491] => Array
+        (
+            [date] => 27 November 2018
+            [day] => Tuesday
+            [time] => 1.00 pm
+            [code] => BG0491
+            [name] => ENGINEERS & SOCIETY
+            [duration] => 2.5
+        )
+
     [BS4004] => Array
         (
             [date] => 27 November 2018
@@ -1487,17 +1477,7 @@ Array
             [time] => 1.00 pm
             [code] => EE0040
             [name] => ENGINEERS & SOCIETY
-            [duration] => 2.5
-        )
-
-    [HA3004] => Array
-        (
-            [date] => 27 November 2018
-            [day] => Tuesday
-            [time] => 1.00 pm
-            [code] => HA3004
-            [name] => UNITED STATES & EAST ASIA
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [HG1001] => Array
@@ -1520,16 +1500,6 @@ Array
             [duration] => 2.5
         )
 
-    [IM0002] => Array
-        (
-            [date] => 27 November 2018
-            [day] => Tuesday
-            [time] => 1.00 pm
-            [code] => IM0002
-            [name] => ENGINEERS & SOCIETY
-            [duration] => 2.5
-        )
-
     [IM0040] => Array
         (
             [date] => 27 November 2018
@@ -1537,7 +1507,7 @@ Array
             [time] => 1.00 pm
             [code] => IM0040
             [name] => ENGINEERS & SOCIETY
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [MA0101] => Array
@@ -1610,16 +1580,6 @@ Array
             [duration] => 2.5
         )
 
-    [BU8543] => Array
-        (
-            [date] => 27 November 2018
-            [day] => Tuesday
-            [time] => 5.00 pm
-            [code] => BU8543
-            [name] => TOURISM & SOCIETY: JOURNEYS OF DISCOVERY
-            [duration] => 2.5
-        )
-
     [CE4068] => Array
         (
             [date] => 27 November 2018
@@ -1628,6 +1588,16 @@ Array
             [code] => CE4068
             [name] => APPLICATION SECURITY
             [duration] => 2
+        )
+
+    [CH2104] => Array
+        (
+            [date] => 27 November 2018
+            [day] => Tuesday
+            [time] => 5.00 pm
+            [code] => CH2104
+            [name] => HEAT & MASS TRANSFER IN CHEMICAL & BIOLOGICAL SYSTEMS
+            [duration] => 2.5
         )
 
     [CM9081] => Array
@@ -1720,16 +1690,6 @@ Array
             [duration] => 2.5
         )
 
-    [HP8006] => Array
-        (
-            [date] => 27 November 2018
-            [day] => Tuesday
-            [time] => 5.00 pm
-            [code] => HP8006
-            [name] => PSYCHOLOGY OF CRISIS STRESS MANAGEMENT
-            [duration] => 2
-        )
-
     [HS3054] => Array
         (
             [date] => 27 November 2018
@@ -1787,7 +1747,7 @@ Array
             [time] => 9.00 am
             [code] => BF3204
             [name] => FINANCIAL MODELLING
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [BS1003] => Array
@@ -1950,16 +1910,6 @@ Array
             [duration] => 2.5
         )
 
-    [PH116S] => Array
-        (
-            [date] => 28 November 2018
-            [day] => Wednesday
-            [time] => 9.00 am
-            [code] => PH116S
-            [name] => ELECTRICITY & MAGNETISM
-            [duration] => 2.5
-        )
-
     [PH2101] => Array
         (
             [date] => 28 November 2018
@@ -2007,7 +1957,7 @@ Array
             [time] => 1.00 pm
             [code] => BR3208
             [name] => OPERATIONAL RISK MANAGEMENT
-            [duration] => 3
+            [duration] => 2.5
         )
 
     [BS3001] => Array
@@ -2390,16 +2340,6 @@ Array
             [duration] => 2
         )
 
-    [HS8019] => Array
-        (
-            [date] => 28 November 2018
-            [day] => Wednesday
-            [time] => 5.00 pm
-            [code] => HS8019
-            [name] => LIVING IN CONTEMPORARY CITIES
-            [duration] => 2
-        )
-
     [MA4845] => Array
         (
             [date] => 28 November 2018
@@ -2407,7 +2347,7 @@ Array
             [time] => 5.00 pm
             [code] => MA4845
             [name] => MANUFACTURING AUTOMATION
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [MA4856] => Array
@@ -2497,6 +2437,16 @@ Array
             [time] => 9.00 am
             [code] => CZ2005
             [name] => OPERATING SYSTEMS
+            [duration] => 2
+        )
+
+    [CZ4041] => Array
+        (
+            [date] => 29 November 2018
+            [day] => Thursday
+            [time] => 9.00 am
+            [code] => CZ4041
+            [name] => MACHINE LEARNING
             [duration] => 2
         )
 
@@ -2697,7 +2647,7 @@ Array
             [time] => 1.00 pm
             [code] => BF3211
             [name] => COMMODITIES TRADING & RISK MANAGEMENT
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [BG4231] => Array
@@ -3047,7 +2997,7 @@ Array
             [time] => 5.00 pm
             [code] => HC0201
             [name] => CHINESE LITERATURE IN SINGAPORE
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [HC4055] => Array
@@ -3220,6 +3170,16 @@ Array
             [duration] => 2
         )
 
+    [CS4073] => Array
+        (
+            [date] => 30 November 2018
+            [day] => Friday
+            [time] => 9.00 am
+            [code] => CS4073
+            [name] => SPECIAL TOPIC V: CHANGE MANAGEMENT & COMMUNICATION
+            [duration] => 2
+        )
+
     [CV3015] => Array
         (
             [date] => 30 November 2018
@@ -3378,6 +3338,16 @@ Array
             [code] => AB3601
             [name] => STRATEGIC MANAGEMENT
             [duration] => 2
+        )
+
+    [BG1117] => Array
+        (
+            [date] => 30 November 2018
+            [day] => Friday
+            [time] => 2.30 pm
+            [code] => BG1117
+            [name] => ENGINEERING MATHEMATICS
+            [duration] => 2.5
         )
 
     [BG2104] => Array
@@ -3580,6 +3550,16 @@ Array
             [duration] => 2.5
         )
 
+    [RE2002] => Array
+        (
+            [date] => 30 November 2018
+            [day] => Friday
+            [time] => 2.30 pm
+            [code] => RE2002
+            [name] => ELECTRONIC & INFORMATION ENGINEERING II
+            [duration] => 2.5
+        )
+
     [SS3010] => Array
         (
             [date] => 30 November 2018
@@ -3747,16 +3727,6 @@ Array
             [time] => 9.00 am
             [code] => HL4028
             [name] => SCIENCE & LITERATURE
-            [duration] => 2.5
-        )
-
-    [HS3016] => Array
-        (
-            [date] => 3 December 2018
-            [day] => Monday
-            [time] => 9.00 am
-            [code] => HS3016
-            [name] => SOCIETIES IN COMPARATIVE PERSPECTIVE
             [duration] => 2.5
         )
 
@@ -3950,16 +3920,6 @@ Array
             [duration] => 2
         )
 
-    [HS2007] => Array
-        (
-            [date] => 3 December 2018
-            [day] => Monday
-            [time] => 1.00 pm
-            [code] => HS2007
-            [name] => UNDERSTANDING GLOBALIZATION
-            [duration] => 2.5
-        )
-
     [IM2004] => Array
         (
             [date] => 3 December 2018
@@ -4060,6 +4020,16 @@ Array
             [duration] => 2
         )
 
+    [CH2140] => Array
+        (
+            [date] => 3 December 2018
+            [day] => Monday
+            [time] => 5.00 pm
+            [code] => CH2140
+            [name] => CHEMICAL ENGINEERING UNIT OPERATIONS I
+            [duration] => 2.5
+        )
+
     [CH3141] => Array
         (
             [date] => 3 December 2018
@@ -4136,7 +4106,7 @@ Array
             [day] => Monday
             [time] => 5.00 pm
             [code] => HA2013
-            [name] => COMPARATIVE PUBLIC POLITICS
+            [name] => COMPARATIVE PUBLIC POLICY
             [duration] => 2.5
         )
 
@@ -4290,16 +4260,6 @@ Array
             [duration] => 2
         )
 
-    [CM412S] => Array
-        (
-            [date] => 4 December 2018
-            [day] => Tuesday
-            [time] => 9.00 am
-            [code] => CM412S
-            [name] => STRUCTURAL DETERMINATION
-            [duration] => 2
-        )
-
     [CS4027] => Array
         (
             [date] => 4 December 2018
@@ -4407,16 +4367,6 @@ Array
             [time] => 9.00 am
             [code] => HE2013
             [name] => INTERNATIONAL TRADE
-            [duration] => 2.5
-        )
-
-    [HE4005] => Array
-        (
-            [date] => 4 December 2018
-            [day] => Tuesday
-            [time] => 9.00 am
-            [code] => HE4005
-            [name] => GROWTH THEORY & EMPIRICS
             [duration] => 2.5
         )
 
@@ -4530,16 +4480,6 @@ Array
             [duration] => 2.5
         )
 
-    [SS3613] => Array
-        (
-            [date] => 4 December 2018
-            [day] => Tuesday
-            [time] => 9.00 am
-            [code] => SS3613
-            [name] => LEGAL ASPECTS IN SPORT
-            [duration] => 2.5
-        )
-
     [BF3201] => Array
         (
             [date] => 4 December 2018
@@ -4567,16 +4507,6 @@ Array
             [time] => 1.00 pm
             [code] => BG3102
             [name] => CONTROL IN BIOSYSTEMS
-            [duration] => 2.5
-        )
-
-    [BM3502] => Array
-        (
-            [date] => 4 December 2018
-            [day] => Tuesday
-            [time] => 1.00 pm
-            [code] => BM3502
-            [name] => GLOBAL BUSINESS STRATEGY
             [duration] => 2.5
         )
 
@@ -4890,16 +4820,6 @@ Array
             [duration] => 2.5
         )
 
-    [HC8003] => Array
-        (
-            [date] => 4 December 2018
-            [day] => Tuesday
-            [time] => 5.00 pm
-            [code] => HC8003
-            [name] => CHINESE TRADITION & SOCIETY (CHINESE)
-            [duration] => 2
-        )
-
     [HE2006] => Array
         (
             [date] => 4 December 2018
@@ -4957,7 +4877,7 @@ Array
             [time] => 5.00 pm
             [code] => MH2814
             [name] => PROBABILITY & STATISTICS
-            [duration] => 2.5
+            [duration] => 2
         )
 
     [AC3102] => Array
@@ -5220,16 +5140,6 @@ Array
             [duration] => 2.5
         )
 
-    [SS3411] => Array
-        (
-            [date] => 5 December 2018
-            [day] => Wednesday
-            [time] => 9.00 am
-            [code] => SS3411
-            [name] => MOTOR CONTROL & LEARNING: THEORY TO PRACTICE
-            [duration] => 2.5
-        )
-
     [AC2302] => Array
         (
             [date] => 5 December 2018
@@ -5440,16 +5350,6 @@ Array
             [duration] => 2
         )
 
-    [PH117S] => Array
-        (
-            [date] => 5 December 2018
-            [day] => Wednesday
-            [time] => 1.00 pm
-            [code] => PH117S
-            [name] => RELATIVITY & QUANTUM PHYSICS
-            [duration] => 2.5
-        )
-
     [PH4501] => Array
         (
             [date] => 5 December 2018
@@ -5630,6 +5530,16 @@ Array
             [duration] => 2
         )
 
+    [BR3207] => Array
+        (
+            [date] => 6 December 2018
+            [day] => Thursday
+            [time] => 9.00 am
+            [code] => BR3207
+            [name] => CYBER RISK MANAGEMENT & INSURANCE
+            [duration] => 2.5
+        )
+
     [BS0001] => Array
         (
             [date] => 6 December 2018
@@ -5637,16 +5547,6 @@ Array
             [time] => 9.00 am
             [code] => BS0001
             [name] => BIOLOGY & SOCIETY
-            [duration] => 2
-        )
-
-    [CE2003] => Array
-        (
-            [date] => 6 December 2018
-            [day] => Thursday
-            [time] => 9.00 am
-            [code] => CE2003
-            [name] => DIGITAL SYSTEMS DESIGN
             [duration] => 2
         )
 
@@ -5737,16 +5637,6 @@ Array
             [time] => 9.00 am
             [code] => HC2040
             [name] => UNDERSTANDING CHINA
-            [duration] => 2.5
-        )
-
-    [HC3051] => Array
-        (
-            [date] => 6 December 2018
-            [day] => Thursday
-            [time] => 9.00 am
-            [code] => HC3051
-            [name] => SOCIOLINGUISTICS
             [duration] => 2.5
         )
 
@@ -5867,16 +5757,6 @@ Array
             [time] => 9.00 am
             [code] => SS0111
             [name] => SPORT & CULTURE IN SINGAPORE: A SOCIOLOGICAL PERSPECTIVE
-            [duration] => 2.5
-        )
-
-    [BE3201] => Array
-        (
-            [date] => 6 December 2018
-            [day] => Thursday
-            [time] => 1.00 pm
-            [code] => BE3201
-            [name] => ENTREPRENEURIAL FINANCE
             [duration] => 2.5
         )
 
@@ -6017,16 +5897,6 @@ Array
             [time] => 1.00 pm
             [code] => HP3204
             [name] => AN APE'S GUIDE TO HUMAN LANGUAGE
-            [duration] => 2.5
-        )
-
-    [HT9301] => Array
-        (
-            [date] => 6 December 2018
-            [day] => Thursday
-            [time] => 1.00 pm
-            [code] => HT9301
-            [name] => LINGUISTICS, CULTURE & TRANSLATION
             [duration] => 2.5
         )
 
